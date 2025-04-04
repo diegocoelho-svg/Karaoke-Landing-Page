@@ -8,3 +8,4 @@
 @import url(about.css);
 @import url(cards.css);
 @import url(features.css) (width >= 80em); /*só importa se o width for maior que 80em, ou seja, desktop*/
+@import url(pricing.css);
